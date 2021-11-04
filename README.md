@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jian18
 - 👀 I’m interested in Front End development and UI Design
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently doing an internship at We Are You (Becoming IO)
 - 📫 How to reach me: https://jianhk.com/
 
 <!---
