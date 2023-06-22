@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jian18
 - 👀 I’m interested in Front End development and UI Design
-- 🌱 I’m currently working at Miles as UX Designer & Front end developer
+- 🌱 I’m currently learning more about Front end development
 - 📫 How to reach me: https://jianhk.com/
 
 <!---
