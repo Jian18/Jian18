@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jian18
-- 👀 I’m interested in Front End development and UI Design
-- 🌱 I’m currently learning more about Front end development
-- 📫 How to reach me: https://jianhk.com/
+- 🌱 I’m currently working as a Fullstack .NET Developer
 
 <!---
 Jian18/Jian18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
