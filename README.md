@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jian18
-- 🌱 I’m currently working as a Fullstack .NET Developer
+
 
 <!---
 Jian18/Jian18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
